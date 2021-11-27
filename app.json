@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "attendenceapp",
+    "slug": "snack-07a5f32b-e307-4fd4-979e-4d8fba55ac1e",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.shauryagupta01.snack07a5f32be3074fd4979e4d8fba55ac1e"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
